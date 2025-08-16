@@ -15,22 +15,9 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rhczz&show_icons=true&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhczz&theme=radical)
-
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhczz&layout=compact&theme=radical)
-
-## 🎯 Current Projects
-
-- 🌌 [Solar System](https://github.com/yourusername/solar-system) - Interactive solar system visualization
-- 📱 [Url Query Builder](https://github.com/rhczz/url-query-builder) - Chrome extension for parsing, editing, and constructing URLs with query parameters
 
 ## 📈 Activity Graph
 
