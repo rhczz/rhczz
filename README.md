@@ -1,12 +1,12 @@
 # Hi there, I'm [Ren Hongchang] 👋
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **Java Backend Development**
-- 🌱 I'm currently learning **Go Language** and interested in **Rust**
-- 💻 I have experience with **Vue.js** for frontend development
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java Backend, Go, Vue.js**
-- 📫 How to reach me: **leo.r.hc@outlook.com**
+- I'm currently working on **Java Backend Development**
+- I'm currently learning **Go Language** and interested in **Rust**
+- I have experience with **Vue.js** for frontend development
+- I'm looking to collaborate on **Open Source Projects**
+- Ask me about **Java Backend, Go, Vue.js**
+- How to reach me: **leo.r.hc@outlook.com**
 
 ## 🛠️ Technologies & Tools
 
