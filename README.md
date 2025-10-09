@@ -19,12 +19,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhczz&layout=compact&theme=radical)
 
-## 📈 Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rhczz&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rhczz&color=brightgreen&style=flat-square&label=Profile+Views)
-
 ## 🤝 Connect with me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leo.r.hc@outlook.com)
