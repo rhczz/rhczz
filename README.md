@@ -30,10 +30,6 @@ I have experience building backend systems, internal platforms, and business app
 
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhczz&layout=compact&theme=default)
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-hi%40renhongchang.top-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@renhongchang.top)
